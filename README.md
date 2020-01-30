@@ -1,1 +1,1 @@
-# excalidraw-vscode
+# Excalidraw VSCode
